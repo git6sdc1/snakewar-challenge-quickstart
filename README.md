@@ -1,6 +1,6 @@
 # SnakeWar TypeScript Starter Project
 
-This project is a great starting point for anyone wanting to program their first SnakeWar in TypeScript. It can be run locally or easily deployed to a cloud provider of your choosing. 
+This project is a great starting point for anyone wanting to program their first SnakeWar in TypeScript (Feel free to choose your own favorite language). It can be run locally or easily deployed to a cloud provider of your choosing. 
 
 ## Technologies Used
 
