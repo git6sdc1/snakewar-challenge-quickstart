@@ -4,7 +4,7 @@ This project is a great starting point for anyone wanting to program their first
 
 ## Technologies Used
 
-This project uses [TypeScript](https://www.typescriptlang.org/), [Node.js](https://nodejs.org/en/), and [Express](https://expressjs.com/). It also comes with an optional [Dockerfile](https://docs.docker.com/engine/reference/builder/) to help with deployment.
+This Template uses [TypeScript](https://www.typescriptlang.org/), [Node.js](https://nodejs.org/en/), and [Express](https://expressjs.com/) as an working sample. **You can use AI to convert it to your favorite programming language**. It also comes with an optional [Dockerfile](https://docs.docker.com/engine/reference/builder/) to help with deployment.
 
 ## Run Your SnakeWar
 
