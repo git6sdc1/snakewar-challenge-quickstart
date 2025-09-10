@@ -55,7 +55,9 @@ function move(gameState: GameState): MoveResponse {
 
 **Note:** you'll need to deploy your Battlesnake to a live web server OR use a port forwarding tool like [ngrok](https://ngrok.com/) to access your server locally.
 
-**Known Issue:** If you use ngrok to expose your server, ask admin to browse your link and click on **visit site** button to access your ngrok server
+**Known Issue:** 
+- If you use ngrok to expose your server, ask admin to browse your link and click on **visit site** button to access your ngrok server
+- If you plan to expose your snake via ngrok, **be aware that ngrok have quota limit for free usage** so plan with your teammate accordingly about the strategy to use it properly.
 
 ![ngrok-visit-site](./pic/ngrok_accept_visit_site.png)
 
